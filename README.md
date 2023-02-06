@@ -1,5 +1,4 @@
 # digi-db-mysql
--- 2/6/22
 MySQL DB of all current card sets, decks and promotional packs.
 -- Starter Decks 1-14
 -- BT 1-12
